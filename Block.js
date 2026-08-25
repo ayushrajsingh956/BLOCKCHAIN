@@ -1,4 +1,3 @@
-const hexToBinary = require('hex-to-binary');
 let GenesisBlock = require('./genesisblock');
 const Hashgenerator = require('./hashgenerator');
 
